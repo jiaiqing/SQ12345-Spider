@@ -6,4 +6,6 @@ Python版本： Python 3.4 & Python 3.5测试通过，不兼容Python 2.x
 
 运行前需要将微信的`corpid`及`corpsecret`写入`wchat`文件中，此文件为文本文件，第一行是`corpid`，第二行是`corpsecret`，将此文件置于根目录下再运行`Spider.py`文件即可。
 
-本爬虫基于https://github.com/g199209/Spider修改而来。
+本爬虫基于
+https://github.com/g199209/Spider
+修改而来。
